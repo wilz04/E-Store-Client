@@ -1,0 +1,19 @@
+﻿<flash_project name="E-Store" version="1">
+    <project_folder name="Client" expanded="false">
+        <project_file path="./Client/Update.fla" filetype="fla" profile="" />
+        <project_file path="./Client/Delete.fla" filetype="fla" profile="" />
+        <project_file path="./Client/Insert.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="Product" expanded="false">
+        <project_file path="./Product/Update.fla" filetype="fla" profile="" />
+        <project_file path="./Product/Delete.fla" filetype="fla" profile="" />
+        <project_file path="./Product/Insert.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="Service" expanded="false">
+        <project_file path="./Service/Update.fla" filetype="fla" profile="" />
+        <project_file path="./Service/Delete.fla" filetype="fla" profile="" />
+        <project_file path="./Service/Insert.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_file path="./Main.fla" filetype="fla" profile="" />
+    <project_file path="./Data.txt" filetype="txt" />
+</flash_project>
